@@ -1,0 +1,16 @@
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\bin\Debug\net5.0\AppDeCadastroDeAnimes.exe
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\bin\Debug\net5.0\AppDeCadastroDeAnimes.deps.json
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\bin\Debug\net5.0\AppDeCadastroDeAnimes.runtimeconfig.json
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\bin\Debug\net5.0\AppDeCadastroDeAnimes.runtimeconfig.dev.json
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\bin\Debug\net5.0\AppDeCadastroDeAnimes.dll
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\bin\Debug\net5.0\ref\AppDeCadastroDeAnimes.dll
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\bin\Debug\net5.0\AppDeCadastroDeAnimes.pdb
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\obj\Debug\net5.0\AppDeCadastroDeAnimes.csprojAssemblyReference.cache
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\obj\Debug\net5.0\AppDeCadastroDeAnimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\obj\Debug\net5.0\AppDeCadastroDeAnimes.AssemblyInfoInputs.cache
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\obj\Debug\net5.0\AppDeCadastroDeAnimes.AssemblyInfo.cs
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\obj\Debug\net5.0\AppDeCadastroDeAnimes.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\obj\Debug\net5.0\AppDeCadastroDeAnimes.dll
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\obj\Debug\net5.0\ref\AppDeCadastroDeAnimes.dll
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\obj\Debug\net5.0\AppDeCadastroDeAnimes.pdb
+C:\Users\bruno\Projetos\AppDeCadastroDeAnimes\obj\Debug\net5.0\AppDeCadastroDeAnimes.genruntimeconfig.cache
